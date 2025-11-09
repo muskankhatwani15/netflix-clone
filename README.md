@@ -23,7 +23,7 @@ A responsive streaming platform replicating Netflix's UI/UX, built with modern w
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/muskankhatwani15/netflix-clone
 
 # Navigate to project directory
 cd netflix-clone
